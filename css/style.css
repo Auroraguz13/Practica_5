@@ -1,0 +1,44 @@
+body {
+
+
+background-color : #074B8A;
+font-family: 'Poppins', 'Roboto', 'Segoe UI', Tahoma, sans-serif;
+font-size: 22px;
+}
+
+td{
+vertical-align : text-top;
+}
+ul{
+
+list-style-type : none;
+}
+a{
+text-decoration : none;
+
+color: aliceblue;
+
+}
+div {
+
+color:
+#FFDD03;
+height: 100%;
+
+
+height: 100%;
+
+padding: 20px 10px 20px 4px;
+
+margin: 10px;
+
+border: 1px solid #169375;
+background- color:#DAD30D;
+border-radius : 15px;
+
+border: solid 2px #930393;
+
+border-radius: 15px 0px 15px 0px;
+
+box- shadow: 2px 2px 5px 
+#F9F904;
